@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="domestic_violence_news_classifer_spanish",
-    version="0.0.1",
+    version="0.0.2",
     author="Hugo J. Bello",
     author_email="hjbello.wk@gmail.com",
     description="A classifier for domestic violence newspaper news in spanish",

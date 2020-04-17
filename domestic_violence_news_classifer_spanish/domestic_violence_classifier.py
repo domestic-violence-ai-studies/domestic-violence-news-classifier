@@ -8,7 +8,7 @@ from pathlib import Path
 class DomesticViolenceClassifier:
     def __init__(self):
         self.cleaner = Cleaner()
-        self.maxlen = 500
+        self.maxlen = 900
         self.tokenizer = None
         self.parent_path = Path(__file__).parent
 
