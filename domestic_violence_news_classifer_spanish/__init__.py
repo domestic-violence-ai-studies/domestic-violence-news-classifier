@@ -1,1 +1,1 @@
-from . import cleaner, domestic_violence_classifier
+from . import domestic_violence_classifier

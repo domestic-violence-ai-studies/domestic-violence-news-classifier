@@ -1,10 +1,19 @@
 # domestic-violence-news-classifer-spanish
 
 
-[![PyPI version](https://badge.fury.io/py/sentiment_analysis_spanish.svg)](https://badge.fury.io/py/sentiment_analysis_spanish)
+[![PyPI version](https://badge.fury.io/py/domestic_violence_news_classifer_spanish.svg)](https://badge.fury.io/py/domestic_violence_news_classifer_spanish)
 
+To install it
 
+```
+ pip install domestic-violence-news-classifer-spanish
+```
 
+you will also need tensorflow and keras to run this package so
+
+```
+ pip install tensorflow keras
+```
 
 Import the package
 
